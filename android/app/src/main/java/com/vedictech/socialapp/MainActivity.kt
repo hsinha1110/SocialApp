@@ -1,4 +1,4 @@
-package com.socialapp
+package com.vedictech.socialapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
