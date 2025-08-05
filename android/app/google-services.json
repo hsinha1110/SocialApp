@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715005967832",
+    "project_id": "socialapp-27a75",
+    "storage_bucket": "socialapp-27a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715005967832:android:aa8c83050cba8be660c6ad",
+        "android_client_info": {
+          "package_name": "com.vedictech.socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hVJr78Den-0c-UlJiSNKpvqo5NqJrAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
